@@ -1,0 +1,16 @@
+{
+  "name": "w3lifer/hello-php",
+  "version": "1.0.0",
+  "autoload": {
+    "psr-4": {
+      "w3lifer\\": ""
+    }
+  },
+  "authors": [
+    {
+      "name": "Roman Grinyov",
+      "email": "w3lifer@gmail.com"
+    }
+  ],
+  "license": "MIT"
+}
